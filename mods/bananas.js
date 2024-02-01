@@ -76,7 +76,7 @@ if(enabledMods.includes(onTryMoveIntoMod) && enabledMods.includes(libraryMod)) {
 		burn: 5,
 		burnInto: ["steam", "ash"],
 		burnTime: 600,
-		category: "life",
+		category: "food",
 		state: "solid",
 		density: 1500,
 		cooldown: defaultCooldown,
